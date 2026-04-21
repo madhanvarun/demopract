@@ -1,0 +1,8 @@
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\bin\Debug\demopract.exe.config
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\bin\Debug\demopract.exe
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\bin\Debug\demopract.pdb
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\obj\Debug\demopract.csproj.AssemblyReference.cache
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\obj\Debug\demopract.csproj.CoreCompileInputs.cache
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\obj\Debug\demopract.exe
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\obj\Debug\demopract.pdb
+C:\Users\VARUN COMPUTERS\source\repos\demopract\demopract\obj\Debug\demopract.exe.config
